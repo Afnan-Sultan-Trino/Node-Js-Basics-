@@ -1,21 +1,16 @@
 {
-  "name": "lesson2",
+  "name": "lesson3",
   "version": "1.0.0",
-  "description": "This is npm testing project",
-  "main": "index2.js",
+  "description": "",
+  "main": "index3.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index3.js"
   },
-  "keywords": [
-    "npm",
-    "node.js",
-    "nodemon"
-  ],
-  "author": "Afnan Sultan Trino",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
   "dependencies": {
-    "random-color-generator-ts": "^1.0.1",
-    "random-fruits-name": "^1.10.1",
-    "random-movie-names": "^1.0.2"
+    "nodemon": "^3.1.7"
   }
 }
